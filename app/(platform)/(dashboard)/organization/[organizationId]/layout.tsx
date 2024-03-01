@@ -1,3 +1,4 @@
+import { Sidebar } from "../../_components/sidebar"
 import { OrgControl } from "./_components/org-control"
 
 const OrganizationIdLayout = ({
